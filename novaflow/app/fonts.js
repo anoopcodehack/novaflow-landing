@@ -25,3 +25,4 @@ export const fontSecondary = { variable: '--font-secondary' };
 
   (next/font/local works fully offline and doesn't hit any network at build time)
 */
+

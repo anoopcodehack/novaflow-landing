@@ -4,8 +4,8 @@ export default function Hero() {
       <img
         src="/assets/svg/logo-mark.svg"
         alt="NovaFlow logo mark"
-        width={64}
-        height={64}
+        width={70}
+        height={70}
         className="entry-anim"
         style={{ display: 'inline-block', '--delay': '0ms' }}
       />
